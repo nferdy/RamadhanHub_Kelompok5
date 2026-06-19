@@ -1,6 +1,6 @@
 # RamadhanHub_Kelompok5
 
-Anggota:\
+Anggota:
 - Ardhis
 - Yogi
 - Hana
